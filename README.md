@@ -1,4 +1,4 @@
-### Hello everyone!
+## Hello everyone!
 
 The mechanical engineer now transforming into the IT and software world. Eager to learn how things work, and how computers and applications are made. Open for any part-time job or other code-related tasks, projects, or work!
 
