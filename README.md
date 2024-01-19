@@ -12,16 +12,18 @@ This realization led me to enroll in 42 Prague, where I started from the ground 
 Choosing C as my starting point has proven beneficial, given its proximity to the Unix terminal, making everything click. I anticipate gaining more experience in C and exploring object-oriented programming with C++, Python, Java, or other languages in the future.
 
 ## 42 Prague
-I’m currently working on a project called [**Philosophers**](https://github.com/rgilles42/Philosophers/blob/main/subject.pdf) which is about [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) and I am learning about threading a process.
+I’m currently working on a project called [**Philosophers**](https://github.com/m-bartos/42_philosophers) which is about [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) and I am learning about threading a process.
 
 ### 42 Projects already done ✅
-* [push_swap](https://github.com/m-bartos/42_push_swap) - 100/100
-* [so_long](https://github.com/m-bartos/42_so_long) - 115/100
-* [pipex](https://github.com/m-bartos/42_pipex) - 125/100
-* Born2beroot - 110/100
-* [get_next_line](https://github.com/m-bartos/42_get_next_line) - 125/100
-* [ft_printf](https://github.com/m-bartos/42_ft_printf) - 100/100
-* [Libft](https://github.com/m-bartos/42_libft) - 125/100
+* **Exam Rank 03** - ft_printf/get_next_line - **100/100**
+* **[push_swap](https://github.com/m-bartos/42_push_swap)** - **100/100**
+* **[so_long](https://github.com/m-bartos/42_so_long)** - **115/100**
+* **[pipex](https://github.com/m-bartos/42_pipex)** - **125/100**
+* **Exam Rank 02** - strings, argc/argv, ft_itoa/ft_atoi, linked lists, etc. - **100/100**
+* **Born2beroot** - setting up Debian on a virtual machine (disk partition, sudo, ssh, ufw, pass policy, crontab, etc.) - **110/100**
+* **[get_next_line](https://github.com/m-bartos/42_get_next_line)** - **125/100**
+* **[ft_printf](https://github.com/m-bartos/42_ft_printf)** - **100/100**
+* **[Libft](https://github.com/m-bartos/42_libft)** - **125/100**
 
 
 ## Languages
