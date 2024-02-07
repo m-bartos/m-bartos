@@ -12,9 +12,10 @@ This realization led me to enroll in 42 Prague, where I started from the ground 
 Choosing C as my starting point has proven beneficial, given its proximity to the Unix terminal, making everything click. I anticipate gaining more experience in C and exploring object-oriented programming with C++, Python, Java, or other languages in the future.
 
 ## 42 Prague
-I’m currently working on a project called [**Philosophers**](https://github.com/m-bartos/42_philosophers) which is about [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) and I am learning about threading a process.
+I am currently exploring the basics of networks and C++. I am also preparing for the start of Minishell team project with [orezek](https://github.com/orezek) at 42 Prague, which is about building our own bash.
 
 ### 42 Projects already done ✅
+* **[**Philosophers**](https://github.com/m-bartos/42_philosophers)** - **100/100**
 * **Exam Rank 03** - ft_printf/get_next_line - **100/100**
 * **[push_swap](https://github.com/m-bartos/42_push_swap)** - **100/100**
 * **[so_long](https://github.com/m-bartos/42_so_long)** - **115/100**
