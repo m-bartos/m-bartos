@@ -12,7 +12,7 @@ This realization led me to enroll in 42 Prague, where I started from the ground 
 Choosing C as my starting point has proven beneficial, given its proximity to the Unix terminal, making everything click. I anticipate gaining more experience in C and exploring object-oriented programming with C++, Python, Java, or other languages in the future.
 
 ## 42 Prague
-I am currently exploring the basics of networking, C++ (C++98 standard) and together with [orezek](https://github.com/orezek) we are writing our own [Minishell](https://github.com/m-bartos/42_minishell) at 42 Prague, which is about building our own bash.
+I am currently exploring the basics of networking, C++ (C++98 standard), C# and together with [orezek](https://github.com/orezek) we are writing our own [Minishell](https://github.com/m-bartos/42_minishell) at 42 Prague, which is about building our own bash.
 
 ### 42 Projects already done ✅
 * **[**Philosophers**](https://github.com/m-bartos/42_philosophers)** - **100/100**
@@ -28,9 +28,10 @@ I am currently exploring the basics of networking, C++ (C++98 standard) and toge
 
 
 ## Languages
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6aa9932e879279b078b02c44fba330a47d3ff38d954245988dca15dd974da919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532302d2532333233373045442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6aa9932e879279b078b02c44fba330a47d3ff38d954245988dca15dd974da919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532302d2532333233373045442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C" data-canonical-src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;"></a>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b33b61504018f44fcc8b0590875398c2612f7348ccd9443ba0e424cde21048a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333134333534432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/b33b61504018f44fcc8b0590875398c2612f7348ccd9443ba0e424cde21048a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333134333534432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" data-canonical-src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Tools
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7eefb2ba052806d8a9ce69863c2eeb3b03cd5935ead7bd2e9245ae2e705a1adf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/7eefb2ba052806d8a9ce69863c2eeb3b03cd5935ead7bd2e9245ae2e705a1adf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" alt="Linux" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;"></a>
