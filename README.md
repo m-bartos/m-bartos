@@ -16,6 +16,7 @@ I am currently exploring the basics of networking, **[C++](https://github.com/m-
 
 ### 42 Projects already done ✅
 * **[cub3d](https://github.com/m-bartos/42_cub3d)** - **105/100**
+* * **Exam Rank 04** - microshell - **100/100**
 * **[minishell](https://github.com/m-bartos/42_minishell)** - **101/100**
 * **[Philosophers](https://github.com/m-bartos/42_philosophers)** - **100/100**
 * **Exam Rank 03** - ft_printf/get_next_line - **100/100**
