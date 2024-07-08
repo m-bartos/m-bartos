@@ -15,6 +15,7 @@ Choosing C as my starting point has proven beneficial, given its proximity to th
 I am currently exploring the basics of networking, **[C++](https://github.com/m-bartos/42_CPP00-04)** (C++98 standard) and C#.
 
 ### 42 Projects already done ✅
+* **[CPP modules 00-04](https://github.com/m-bartos/42_CPP00-04)** - **100/100**
 * **[cub3d](https://github.com/m-bartos/42_cub3d)** - **105/100**
 * **Exam Rank 04** - microshell - **100/100**
 * **[minishell](https://github.com/m-bartos/42_minishell)** - **101/100**
