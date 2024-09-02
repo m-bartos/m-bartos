@@ -12,9 +12,10 @@ This realization led me to enroll in 42 Prague, where I started from the ground 
 Choosing C as my starting point has proven beneficial, given its proximity to the Unix terminal, making everything click. I anticipate gaining more experience in C and exploring object-oriented programming with C++, C#, Python, Java, or other languages in the future.
 
 ## 42 Prague
-I am currently exploring basics of **[C++](https://github.com/m-bartos/42_CPP00-09)** (C++98 standard), SQL and C#.
+I am currently exploring the basics of Docker, C++98 standard, SQL and C#.
 
 ### 42 Projects already done ✅
+* **[CPP modules 05-09](https://github.com/m-bartos/42_CPP00-09)** - **100/100**, **100/100**, **100/100**, **100/100**, **100/100**
 * **NetPractice** - basics of TCP/IP addressing - **100/100**
 * **[CPP modules 00-04](https://github.com/m-bartos/42_CPP00-09)** - **95/100**, **100/100**, **100/100**, **100/100**, **100/100**
 * **[cub3d](https://github.com/m-bartos/42_cub3d)** - **105/100**
