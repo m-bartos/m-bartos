@@ -7,12 +7,12 @@ I studied mechanical engineering at CTU in Prague. Throughout my university year
 
 Following two years as a mechanical designer for automation lines, I decided to dive into coding. My coding journey began with a basic Python course, [100daysOfCode](https://www.udemy.com/course/100-days-of-code/). However, I soon realized I could write code without truly comprehending its underlying principles.
 
-This realization led me to enroll in 42 Prague, where I started from the ground up with C programming. After completing a four-week-long selection boot camp, I was accepted as a student and I am currently immersed in the 42 Prague Common Core program full-time.
+This realization led me to enrol in 42 Prague, where I started from the ground up with C programming. After completing a four-week-long selection boot camp, I was accepted as a student and I am currently immersed in the 42 Prague Common Core program full-time.
 
 Choosing C as my starting point has proven beneficial, given its proximity to the Unix terminal, making everything click. I anticipate gaining more experience in C and exploring object-oriented programming with C++, C#, Python, Java, or other languages in the future.
 
 ## 42 Prague
-I am currently exploring the basics of Docker, C++98 standard, SQL and C#.
+I am currently working on [IRCserver](https://github.com/orezek/IRCserver). I am also exploring the basics of Docker, C++98 standard, SQL and C#.
 
 ### 42 Projects already done ✅
 * **[CPP modules 05-09](https://github.com/m-bartos/42_CPP00-09)** - **100/100**, **100/100**, **100/100**, **100/100**, **100/100**
