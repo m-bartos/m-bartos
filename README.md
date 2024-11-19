@@ -9,12 +9,13 @@ Following two years as a mechanical designer for automation lines, I decided to 
 
 This realization led me to enrol in 42 Prague, where I started from the ground up with C programming. After completing a four-week-long selection boot camp, I was accepted as a student and I am currently immersed in the 42 Prague Common Core program full-time.
 
-Choosing C as my starting point has proven beneficial, given its proximity to the Unix terminal, making everything click. I anticipate gaining more experience in C and exploring object-oriented programming with C++, C#, Python, Java, or other languages in the future.
+Choosing C as my starting point has proven beneficial, given its proximity to the Unix terminal, making everything click. I expect to gain more experience in object-oriented programming languages such as C++ and C#.
 
 ## 42 Prague
-I am currently working on [IRCserver](https://github.com/orezek/IRCserver). I am also exploring the basics of Docker, C++98 standard, SQL and C#.
+I am currently exploring the basics of Docker, C++, SQL, and C#.
 
 ### 42 Projects already done ✅
+* **[ft_irc](https://github.com/orezek/IRCserver)** - basic chatting server - **100/100**
 * **[CPP modules 05-09](https://github.com/m-bartos/42_CPP00-09)** - **100/100**, **100/100**, **100/100**, **100/100**, **100/100**
 * **NetPractice** - basics of TCP/IP addressing - **100/100**
 * **[CPP modules 00-04](https://github.com/m-bartos/42_CPP00-09)** - **95/100**, **100/100**, **100/100**, **100/100**, **100/100**
@@ -37,7 +38,6 @@ I am currently working on [IRCserver](https://github.com/orezek/IRCserver). I am
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Tools I use
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
