@@ -12,26 +12,27 @@ This realization led me to enrol in 42 Prague, where I started from the ground u
 Choosing C as my starting point has proven beneficial, given its proximity to the Unix terminal, making everything click. I expect to gain more experience in object-oriented programming languages such as C++ and C#.
 
 ## 42 Prague
-I am currently exploring the basics of Docker, C++, SQL, and C#.
+I am currently exploring microservices, Ruby, Javascript, SQL and C#.
 
 ### 42 Projects already done ✅
-* **[ft_irc](https://github.com/orezek/IRCserver)** - basic chatting server - **100/100**
-* **[CPP modules 05-09](https://github.com/m-bartos/42_CPP00-09)** - **100/100**, **100/100**, **100/100**, **100/100**, **100/100**
-* **NetPractice** - basics of TCP/IP addressing - **100/100**
-* **[CPP modules 00-04](https://github.com/m-bartos/42_CPP00-09)** - **95/100**, **100/100**, **100/100**, **100/100**, **100/100**
-* **[cub3d](https://github.com/m-bartos/42_cub3d)** - **105/100**
-* **Exam Rank 04** - microshell - **100/100**
-* **[minishell](https://github.com/m-bartos/42_minishell)** - **101/100**
-* **[Philosophers](https://github.com/m-bartos/42_philosophers)** - **100/100**
-* **Exam Rank 03** - ft_printf/get_next_line - **100/100**
-* **[push_swap](https://github.com/m-bartos/42_push_swap)** - **100/100**
-* **[so_long](https://github.com/m-bartos/42_so_long)** - **115/100**
-* **[pipex](https://github.com/m-bartos/42_pipex)** - **125/100**
-* **Exam Rank 02** - strings, argc/argv, ft_itoa/ft_atoi, linked lists, etc. - **100/100**
-* **Born2beroot** - setting up Debian on a virtual machine (disk partition, sudo, ssh, ufw, pass policy, crontab, etc.) - **110/100**
-* **[get_next_line](https://github.com/m-bartos/42_get_next_line)** - **125/100**
-* **[ft_printf](https://github.com/m-bartos/42_ft_printf)** - **100/100**
-* **[Libft](https://github.com/m-bartos/42_libft)** - **125/100**
+* **Inception** - Docker, Docker compose - volumes, env, secrets, network
+* **[ft_irc](https://github.com/orezek/IRCserver)** - basic chatting server
+* **[CPP modules 05-09](https://github.com/m-bartos/42_CPP00-09)**
+* **NetPractice** - basics of TCP/IP addressing
+* **[CPP modules 00-04](https://github.com/m-bartos/42_CPP00-09)**
+* **[cub3d](https://github.com/m-bartos/42_cub3d)**
+* **Exam Rank 04** - microshell
+* **[minishell](https://github.com/m-bartos/42_minishell)**
+* **[Philosophers](https://github.com/m-bartos/42_philosophers)**
+* **Exam Rank 03** - ft_printf/get_next_line
+* **[push_swap](https://github.com/m-bartos/42_push_swap)**
+* **[so_long](https://github.com/m-bartos/42_so_long)**
+* **[pipex](https://github.com/m-bartos/42_pipex)**
+* **Exam Rank 02** - strings, argc/argv, ft_itoa/ft_atoi, linked lists, etc.
+* **Born2beroot** - setting up Debian on a virtual machine (disk partition, sudo, ssh, ufw, pass policy, crontab, etc.)
+* **[get_next_line](https://github.com/m-bartos/42_get_next_line)**
+* **[ft_printf](https://github.com/m-bartos/42_ft_printf)**
+* **[Libft](https://github.com/m-bartos/42_libft)**
 
 
 ## Languages I am interested in
