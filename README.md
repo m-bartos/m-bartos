@@ -15,6 +15,7 @@ Choosing C as my starting point has proven beneficial, given its proximity to th
 I am currently exploring microservices, Ruby, Javascript, SQL and C#.
 
 ### 42 Projects already done ✅
+* **Exam Rank 05** - CPP classes, inheritance, containers
 * **Inception** - Docker, Docker compose - volumes, env, secrets, network
 * **[ft_irc](https://github.com/orezek/IRCserver)** - basic chatting server
 * **[CPP modules 05-09](https://github.com/m-bartos/42_CPP00-09)**
