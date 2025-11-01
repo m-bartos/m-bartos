@@ -4,7 +4,6 @@ Mechanical engineer turned software developer — now working as a **freelance f
 
 I focus on building **scalable web applications** and **developer-friendly APIs**, combining strong backend foundations with modern frontend frameworks. Always open to **collaborations and freelance opportunities** involving backend design, system integration, or end-to-end application development.
 
----
 
 ## 💼 What I’m Working On
 
@@ -22,14 +21,24 @@ Recent professional experience includes:
 
 I also run a **self-hosted web infrastructure** for personal and client projects, integrating Strapi CMS, PostgreSQL, and automated Docker-based deployments.
 
----
-
 ## 🌐 Other Work
 
 Beyond my main projects, I maintain and self-host several smaller services and internal tools, including my **personal website** built with **Next.js + Strapi CMS**, backed by **PostgreSQL** and deployed automatically through **GitHub Actions → Harbor → Coolify**.  
 These setups help me continuously experiment with **DevOps automation** and **self-hosted workflows** for real-world deployment pipelines.
 
----
+
+
+## 💬 Collaboration & Problem-Solving  
+
+I enjoy discussing architecture, exploring design options, and reasoning through how different systems interact. When solving problems, I often explain concepts through diagrams or practical examples — helping others quickly grasp the logic behind a solution.  
+
+Brainstorming is one of my favorite parts of development. I like comparing potential approaches, weighing their trade-offs, and finding the option that brings **real added value to the client or project**.  
+
+My learning mindset naturally grew during my time at **42 Prague**, where the philosophy is simple: *“Here’s the task — now figure out how to make it work.”* That environment taught me how to research, verify, and experiment until I truly understand how a technology or system functions.  
+
+This mindset also helped me make a complete career shift from mechanical engineering to software development — and it still drives me today. I continue to learn, explore new frameworks, and refine my craft every day.
+
+
 
 ## 🧩 Skills & Technologies
 
@@ -68,8 +77,6 @@ During my **Common Core studies**, I worked entirely in a **Linux environment**,
 - Modular C++ design and system-level problem solving  
 
 After completing the program, I shifted my focus to full-stack web development, combining my systems-level understanding with modern backend and frontend technologies.
-
----
 
 ## 🚀 42 Prague Highlights
 
